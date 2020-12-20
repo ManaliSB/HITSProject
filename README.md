@@ -1,5 +1,5 @@
- ##HITSProject
- #To run the project on Windows:
+ ## HITSProject
+ # To run the project on Windows:
  1. Open Command Prompt. Go to HITSProject directory on Command Prompt.
  2. Install semantic-ui-react ' npm install semantic-ui-react semantic-ui-css ' 
  3. use ' npm start 'to start the program
